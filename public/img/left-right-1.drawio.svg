@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="321px" height="241px" viewBox="-0.5 -0.5 321 241" content="&lt;mxfile host=&quot;3c430419-b670-4a57-9059-37014fa77fae&quot; modified=&quot;2020-07-13T01:20:40.001Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;btG0lrauvT05euoYbylB&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;tZZBj6MgFMc/jdeJSqXTa7vj7GWTSXqYM1tfK1n0GaTV9tMvFFTcOqmZuB4M789D4Pd/hQZkV7TvklX5L8xABHGYtQH5EcRxson12whXK6ySxAonyTMrRYOw5zdwYujUM8+gHiUqRKF4NRYPWJZwUCONSYnNOO2IYjxrxU7wIOwPTDyqnzxTuVVf4/Wg/wR+yruZI7qxPQXrkt1O6pxl2HgSeQvITiIq2yraHQjDruNix6Vf9PYLk1CqOQOcERcmzm5vbl3q2m1W4rnMwOSHAdk2OVewr9jB9DbaXa3lqhA6inSzwAv7fR9pkiXU/ObHqJjyYl0W4MeQcT909nnKkQuxQ4HyvjQS3h+tP27bkbiAVNB6ksPwDliAkled4npfnSNdSbqwGfwlnWm5522fyFxNnfovD9h1w5GfdmG1sAu1kvgHOlAlljDFjlKP3QOoCZxz2UV0JrwoXgBe8hye/pVVpqk0KbihGbmtQHI9F0hf/xjEJRin6ZZQapLtERa+RPSfZxkDeuLOgf588Rzoc3wH6AIG0IWr90uIU8T/Q/VuZlZvsgC79XN2eoC+1+A5N1ZX9rI78tawnlmiabpYFYbrl2TEcuIgWE2Q/MYZqsPhlrz3eX81yNtf&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="320" height="240" fill="#000000" stroke="#000000" pointer-events="all"/>
+        <rect x="0" y="120" width="320" height="120" fill="#006600" stroke="none" pointer-events="all"/>
+        <path d="M 80 240 L 106.67 180 L 213.33 180 L 240 240 Z" fill="#ffb366" stroke="none" pointer-events="all"/>
+        <rect x="0" y="150" width="320" height="50" fill="#ffb366" stroke="none" pointer-events="all"/>
+        <ellipse cx="47.5" cy="40" rx="20" ry="20" fill="#ffff66" stroke="none" pointer-events="all"/>
+    </g>
+</svg>
