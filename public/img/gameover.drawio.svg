@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="321px" height="241px" viewBox="-0.5 -0.5 321 241" content="&lt;mxfile host=&quot;6d3e3922-e127-49cc-b132-fddfa970720b&quot; modified=&quot;2020-07-12T23:05:58.770Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;tkfAvuvG-fgXUT03LSuO&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;rZTBboMwDIafhjuQrWXHtmPdpZq0Sts5Iy5ECxiFtNA+/UwJEEYnbdIuKP7skPj/DR7b5M1W8zLboQDlhb5oPPbohWHIlvRswbkD937QgVRL0SEH7OUFLPQtPUoB1aTQICojyylMsCggMRPGtcZ6WnZANT215CnMwD7hak7fpTBZR6NwOfJnkGnWnxwsHrpMzvti20mVcYG1g1jssY1GNN0qbzagWu16Xbp9Tz9kh4tpKMxvNoTdhhNXR9ubvZc5981qPBYC2nrfY+s6kwb2JU/abE3uEstMrigKaJnjiX9cd7bFGip5cWM03DgxjQW4MQjphtY+h9jbgjbQ/NhxMOhI8weYg9FnKrEbIqu8Hb07G9ajj6w3J3M8HAq5nZ10ePMoLy2swrfVZjO1t6tdTOTlLX6dCU89mqm6ldH4CRtUqIkUWFDl+iCV+oa4kmlBYUKaAPF1q5ik+V3ZRC6FaI+5aefU8AMWxn6BdP9/sSAIph5Ecw/CxQ0Por9bQOH4MV1zzh+JxV8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="320" height="240" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <rect x="30" y="40" width="260" height="80" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 80px; margin-left: 31px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 23px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                GAME OVER
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="160" y="87" fill="#000000" font-family="Helvetica" font-size="23px" text-anchor="middle">
+                    GAME OVER
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

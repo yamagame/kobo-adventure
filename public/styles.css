@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  height: 100%;
+  background-color: black;
+  color: white;
+}
+
+div.game {
+  margin: 0;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+div.game a, div.game a:link, div.game a:visited {
+  display: block;
+  color: white;
+}
+
+div.messsage {
+  color: white;
+  background-color: cornflowerblue;
+  margin: 0;
+  padding: 4px;
+}
