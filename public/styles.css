@@ -24,10 +24,14 @@ div.game a, div.game a:link, div.game a:visited {
   color: white;
 }
 
+div.game img {
+  border: solid 1px gray;
+}
+
 div.messsage {
   color: white;
   background-color: cornflowerblue;
   margin: 0;
-  padding: 4px;
-  width: 320px;
+  padding: 5px;
+  width: 323px;
 }
