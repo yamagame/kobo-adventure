@@ -6,6 +6,7 @@ const ipaddress = 'localhost'
 
 function talk(body) {
   (async () => {
+    console.log(body);
     try {
       const response = await fetch(`http://${ipaddress}:3090/speech`, {
         method: 'POST',

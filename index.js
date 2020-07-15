@@ -8,9 +8,9 @@ const router = require('./router')
 app.use(cookieParser())
 
 app.use((req, res, next)=> {
-  // console.log(`${req.method} ${req.url} HTTP/${req.httpVersion}`);
+  console.log(`${req.method} ${req.url} HTTP/${req.httpVersion}`);
   // console.log(req.headers);
-  // console.log(req.cookies);
+  console.log(req.cookies);
   res.publicFileSend = (filename) => {
     res.sendFile(path.join(__dirname, 'public', filename))
   }
