@@ -1,26 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const fetch = require('node-fetch');
-
-const ipaddress = 'localhost'
-
-function talk(body) {
-  (async () => {
-    console.log(body);
-    try {
-      const response = await fetch(`http://${ipaddress}:3090/speech`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'text/plain' },
-        body,
-      });
-      if (response.ok) {
-        const text = await response.text();
-        console.log(text);
-      }
-    } catch(err) {
-    }
-  })();
-}
+const talk = require('./talk');
 
 router.get('/scene-1', (req, res) => {
   res.publicFileSend(`scene-1.html`)
